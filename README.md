@@ -1,4 +1,4 @@
-# Arduino_pyhton
+# Voice_command_arduino
 Use python speech recognition to turn on and off LED of arduino
 
 the bs_serialcomm.ino should be uploaded into arduino
